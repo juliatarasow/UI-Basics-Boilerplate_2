@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matisse</title>
+    <style>
+         body {
+            color: darkslategray;
+            background-color: white;
+        }
+        h1 {
+            font-size: 40px;
+            color: blueviolet;
+        }
+        h3 {
+            color: violet;
+            font-size: 30px;
+        }
+        blockquote {
+            color: blueviolet;
+            font-size: 20px;
+        }
+        i {
+            color: violet;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Henri Matisse: Final Years and Exhibit</h1>
+    <img src="henri-matisse-9402564-1-raw.jpg" alt="Henri Matisse">
+    <figcaption>Matisse lived in France and he painted beautiful pictures. <a
+            href="https://de.gallerix.ru/storeroom/1258822127/">Here</a> you can see some of his paintings.</figcaption>
+    <br>
+    <hr>
+    <blockquote>What I dream of is an art of balance, of purity and serenity devoid of troubling or depressing subject
+        matter - a soothing, calming influence on the mind, rather like a good armchair which provides relaxation from
+        physical fatigue.</blockquote>
+    <hr>
+    <p><strong>Henri Matisse</strong> created some of his best-known art in the final decade of his life, and he made it
+        from the simplest materials: shapes cut from colorful sheets of paper. He described these “cut-out” works as
+        <mark>“drawing with scissors,”</mark> and he used this technique for works of various sizes and subjects.
+
+        This late period of Matisse’s art is showcased in the exhibition <cite>“Henri Matisse: The Cut-Outs”</cite> at the
+        <a href="https://www.moma.org/interactives/exhibitions/2014/matisse/">Museum of Modern Art in New York</a>. The
+        show was organized in collaboration with Tate Modern in London and features approximately 100 cut-outs borrowed
+        from museums and private collections around the world. The cut-outs are shown alongside related sketches,
+        archival photographs, and samples of the artist’s materials for an overall look at this late, but innovative,
+        chapter of Matisse’s life and career.</p>
+    <hr>
+    <p>
+    <h3>Brush and Canvas, Scissors and Paper</h3>
+
+    Matisse initially used paper cut-outs to plot the design of works in other materials. Arranging and re-arranging
+    small forms cut from sheets of paper, he could plan effects of composition, color, and contrast before he painted on
+    canvas. In early experiments with this method, he employed cut-outs to visualize the stage sets he was designing for
+    theater and ballet productions. In the 1930s paper cut-outs assisted him in creating still-life paintings and in
+    finalizing his design for a painted mural at the Barnes Foundation museum in Pennsylvania.
+    <br>
+    <h3>Jazz and the 1940s: Cut-Outs as Works of Art</h3>
+
+    Matisse initially kept his cut-out technique a secret. In 1943, however, he began to work on <em>Jazz</em>, an illustrated
+    book of cut-out designs. <em>Jazz</em> was published in 1947. Its main theme was the circus, and its pages reproduced
+    Matisse’s lively paper acrobats, clowns and animals. However, there were also hints of wartime violence in the
+    illustrations’ exploding starbursts and falling bodies.
+
+    Coping with the difficulties of old age and illness in the years following World War II, Matisse nonetheless
+    produced some of the most vibrant and dynamic works of his career. He lived and worked in southern France, in sunny
+    studios in Vence and Nice. Following surgeries for severe intestinal disease, he was confined mostly to his bed and
+    to a wheelchair. Working with paper turned out to be an ideal solution to his limited range of movement.</p>
+    <br>
+    <p><i> Read more about Henri...</i></p>
+    <ol>
+        <li> <a href="https://de.wikipedia.org/wiki/Henri_Matisse#Leben">Life and Education</a></li>
+        <li> <a href="https://de.wikipedia.org/wiki/Henri_Matisse#Das_malerische_Werk">Artwork</a></li>
+        <li> <a href="https://de.wikipedia.org/wiki/Henri_Matisse#Ausstellungen,_Museen_(Auswahl)">Exhibitions</a></li>
+    </ol>
+
+</body>
+
+</html>
